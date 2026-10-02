@@ -1,0 +1,2 @@
+rag/*.pkl filter=lfs diff=lfs merge=lfs -text
+rag/*.bin filter=lfs diff=lfs merge=lfs -text
