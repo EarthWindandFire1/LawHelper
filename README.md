@@ -1,4 +1,4 @@
-# Updated Legal Assistant Interface
+# Updated Legal Consultant Interface
 
 The original `rag.py` and `intent_eval.py` remain unchanged. The new files are in the same directory as the original files:
 
